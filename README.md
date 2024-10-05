@@ -44,3 +44,5 @@ Together, we are dedicated to revolutionizing the way stories are experienced. B
 Next Read is proudly released under the MIT License, encouraging innovation and sharing within the community. For more details, refer to the LICENSE documentation.
 
 Dive into **Next Read** and transform your reading experience, where every story adapts to your imagination, crafting personalized adventures that await your discovery.
+
+https://shoaibarif1.github.io/NextRead/
